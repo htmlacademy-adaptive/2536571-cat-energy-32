@@ -1,6 +1,6 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Руслан Абасов](https://up.htmlacademy.ru/adaptive/32/user/2536571).
+* Студент: [Руслан ААбасов](https://up.htmlacademy.ru/adaptive/32/user/2536571).
 * Наставник: [Иван Жарков](https://htmlacademy.ru/profile/id191422)
 
 ---
